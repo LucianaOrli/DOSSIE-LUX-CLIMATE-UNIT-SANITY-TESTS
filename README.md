@@ -31,6 +31,7 @@ pytest
 
 
 📊 Evidências de Sucesso
+
 Status do Motor: ✅ All tests passed
 Velocidade de Execução: ~0.02s
 Arquitetura: Python + Pytest
